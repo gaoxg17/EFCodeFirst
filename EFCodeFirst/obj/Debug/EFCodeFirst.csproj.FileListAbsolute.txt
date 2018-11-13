@@ -1,0 +1,13 @@
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe.config
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.pdb
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.dll
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.xml
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+F:\My\EFCodeFirst\EFCodeFirst\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\My\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csprojAssemblyReference.cache
+F:\My\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CoreCompileInputs.cache
+F:\My\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CopyComplete
+F:\My\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.exe
+F:\My\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.pdb
